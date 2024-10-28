@@ -14,11 +14,11 @@ de leer y menos propenso a errores.
 
 ## Pasos para Aplicar Extract Subclass
 
-1.- Identifica el conjunto de métodos y atributos específicos que representan una funcionalidad diferente dentro de la clase. \n
-2.- Crea una subclase para agrupar esos métodos y atributos.\n
-3.- Transfiere los métodos y atributos relevantes de la clase original a la nueva subclase.\n
-4.- Ajusta las referencias en otras partes del código para utilizar la nueva subclase cuando corresponda.\n
-5.- Prueba el código para asegurarte de que la funcionalidad no se vea afectada tras la refactorización.\n
+1.- Identifica el conjunto de métodos y atributos específicos que representan una funcionalidad diferente dentro de la clase. 
+2.- Crea una subclase para agrupar esos métodos y atributos. 
+3.- Transfiere los métodos y atributos relevantes de la clase original a la nueva subclase. 
+4.- Ajusta las referencias en otras partes del código para utilizar la nueva subclase cuando corresponda. 
+5.- Prueba el código para asegurarte de que la funcionalidad no se vea afectada tras la refactorización. 
 
 ## Beneficios de Extract Subclass
 
